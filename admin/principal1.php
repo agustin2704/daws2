@@ -50,8 +50,8 @@
                                 <div class="portlet-title">
                                     <div class="caption">
                                         <i class="icon-share font-blue"></i>
-                                        <span class="caption-subject font-blue bold uppercase">Entradas</span>
-                                        <span class="caption-helper">Reporte...</span>
+                                        <span class="caption-subject font-blue bold uppercase">Entrada</span>
+                                        <span class="caption-helper">Reportes</span>
                                     </div>
                                    
                                 </div>
@@ -71,8 +71,8 @@
                                 <div class="portlet-title tabbable-line">
                                     <div class="caption">
                                         <i class="icon-globe font-red"></i>
-                                        <span class="caption-subject font-red bold uppercase">Salidas</span>
-                                        <span class="caption-helper">Reporte...</span>
+                                        <span class="caption-subject font-red bold uppercase">Salida</span>
+                                        <span class="caption-helper">Reportes</span>
                                     </div>
                                 </div>
                                 <div class="portlet-body">
