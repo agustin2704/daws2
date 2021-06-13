@@ -12,7 +12,7 @@ $bd = new GestarBD;
 include 'inc/head.php';
 include 'inc/header.php';
 
-//include 'content.php';
+include 'content.php';
 
 include 'inc/opciones.php';
 
