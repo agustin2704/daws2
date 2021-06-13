@@ -258,8 +258,8 @@ $hora = date("H:i:s",time()-3600);
                                   <tr>
                                   <div id="register_form">
                                     <form  role="form" action="?admin=salida&crear=crear" method="post" enctype="multipart/form-data">
-                                                        <th>Producto o Servicio </th>
-                                                        <th>Cantidad o Monto</th>
+                                                        <th>Producto </th>
+                                                        <th>Cantidad</th>
                                 </thead>
                                 <tbody>
                                   <tr>
