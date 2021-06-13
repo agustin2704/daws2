@@ -141,14 +141,14 @@ $hora = date("H:i:s",time()-3600);
                                              <td  width="5%"><?php echo $fila->id_payments; ?></td>
                                               <?php
                                       if($p=="proceso"){
-                                        echo "<td width='25%' style='color: orange'> Procesando </td>";
+                                        echo "<td width='25%' style='color: orange'> Procesandose </td>";
                                         }elseif ($p=="pagada") {
-                                            echo "<td width='25%' style='color: green'> Procesando </td>";
+                                            echo "<td width='25%' style='color: green'> Procesandose </td>";
                                             # code...
                                         }elseif($p=="pendiente"){
-                                             echo "<td width='25%' style='color: red'> Pendiente</td>";
+                                             echo "<td width='25%' style='color: red'> Pendientes</td>";
                                         }else{
-                                              echo "<td  width='25%' style='color: red'> Pendiente</td>";
+                                              echo "<td  width='25%' style='color: red'> Pendientes</td>";
                                         }
                                          ?>
                                              <td  width="25%"><?php echo $fila->date_payment; ?></td>
